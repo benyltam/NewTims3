@@ -1,0 +1,10 @@
+C:\Users\Ben Tam\source\repos\ControlLibrary\bin\Debug\ControlLibrary.dll
+C:\Users\Ben Tam\source\repos\ControlLibrary\bin\Debug\ControlLibrary.pdb
+C:\Users\Ben Tam\source\repos\ControlLibrary\obj\Debug\ControlLibrary.csproj.AssemblyReference.cache
+C:\Users\Ben Tam\source\repos\ControlLibrary\obj\Debug\ControlLibrary.Xbutton.resources
+C:\Users\Ben Tam\source\repos\ControlLibrary\obj\Debug\ControlLibrary.Xcheckbox.resources
+C:\Users\Ben Tam\source\repos\ControlLibrary\obj\Debug\ControlLibrary.XlistView.resources
+C:\Users\Ben Tam\source\repos\ControlLibrary\obj\Debug\ControlLibrary.csproj.GenerateResource.cache
+C:\Users\Ben Tam\source\repos\ControlLibrary\obj\Debug\ControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ben Tam\source\repos\ControlLibrary\obj\Debug\ControlLibrary.dll
+C:\Users\Ben Tam\source\repos\ControlLibrary\obj\Debug\ControlLibrary.pdb
